@@ -97,6 +97,7 @@
   },
   "resolutions": {
     "@types/bluebird": "3.5.27"
+    "**/fsevents": ">=1.2.4"
   },
   "dependencies": {
     "apicache": "^1.4.0",
